@@ -1,6 +1,6 @@
 # bilibili
-B站移动端开发
-https://www.bilibili.com/video/BV1vT4y137So
+项目名字:B站移动端开发
+
 技术栈
 vue + vuex + vue-router + ES6/7 + less + flex + vant
 
